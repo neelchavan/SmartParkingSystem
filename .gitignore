@@ -38,6 +38,8 @@ bin/
 
 ### VS Code ###
 .vscode/
+ParkingLotPlan.md
+ProblemStatement.md
 
 ### Mac OS ###
 .DS_Store
